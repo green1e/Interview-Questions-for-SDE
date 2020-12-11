@@ -17,7 +17,7 @@ For Android App development mentioned in my resume, the following questions were
 
 Coding questions-
 1) Given two intervals (a1,a2) and (b1,b2), find the common interval.
-2) Write code to fing height of a binary tree.
+2) Write code to find height of a binary tree.
 3) Given a sorted integer array rotated by some distance to the right, write a program to find location of a particular element in the array.
 4) Given an integer array, find the subarray with maximum sum
 5) Given an integer array, write a program to find the smallest sub array whose product(or sum) is divisible by a given integer K
