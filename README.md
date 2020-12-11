@@ -24,4 +24,4 @@ Coding questions-
 6) Given an array of n-1 integers from 1 to n. Find the missing number.
 7) Given a sudoku, write a program to check whether it is a valid sudoku or not.
 
-That's it, from my side. Thank you and hope this helps. Solutions you find on the internet but if you need them, let me know and I will add them here.
+That's it from my side. Hope this helps. Solutions you can find on the internet but if you need them, let me know and I will add them here.
